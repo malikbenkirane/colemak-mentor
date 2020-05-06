@@ -34,7 +34,7 @@ Otherwise read `package.json` and see also
 
 ## Lessons
 
-*Reference: .js*
+*Reference: lessons.js*
 
 The feature is still not implemented yet. See `src/lessons.js` to get
 the idea. And follow the following guidelines:
@@ -54,7 +54,7 @@ which lesson to load by updating the line `const lessons = ...` in
  
 ## Alternative mappings
 
-*Reference: lessons.js*
+*Reference: mappings.js*
 
 In case your keyboard is not a us keyboard or is not mapped to the us
 keyboard layout, you can update `src/colemak.js` to update the mappings.
