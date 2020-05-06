@@ -1,8 +1,8 @@
-# Colemak! mentor [wip] *[-> demo](https://now.colemak.sh)*
+# Colemak! mentor [wip] *[-> demo](https://colemak.now.sh)*
 
 *WIP: see also roadmap section below*
 
-Demo: [now.colemak.sh](https://now.colemak.sh)
+Demo: [now.colemak.sh](https://colemak.now.sh)
 
 Colemak! is a svelte app being developped with
 the [svelte.dev](https://svelte.dev) framework.
