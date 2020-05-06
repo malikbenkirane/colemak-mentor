@@ -54,7 +54,7 @@ which lesson to load by updating the line `const lessons = ...` in
  
 ## Alternative mappings
 
-*Reference: mappings.js*
+*Reference: colemak.js*
 
 In case your keyboard is not a us keyboard or is not mapped to the us
 keyboard layout, you can update `src/colemak.js` to update the mappings.
