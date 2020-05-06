@@ -68,7 +68,8 @@ already written, you can find some tracks below to generate your
 mapping.
 
 Start by getting any colemak layout picture and start with writing
-something like this
+your custom mapping
+![colemak layout](https://colemak.com/wiki/images/6/6c/Colemak2.png)
 ```
 qwertyuiop[]\ -> qwfpgjluy;[]\
 QWERTYUIOP{}\ -> QWFPGJLUY:{}\
