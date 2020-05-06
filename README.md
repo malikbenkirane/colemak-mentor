@@ -97,7 +97,7 @@ colemak.js.
 
 # See also
 
-https://colemak.com/Learn
-https://colemak.com
-https://en.wikipedia.org/wiki/Colemak
-https://first20hours.com/typing/
+- https://colemak.com/Learn
+- https://colemak.com
+- https://en.wikipedia.org/wiki/Colemak
+- https://first20hours.com/typing/
