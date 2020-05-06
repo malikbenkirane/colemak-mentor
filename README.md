@@ -1,4 +1,4 @@
-# Colemak! [wip]... *[-> demo](https://now.colemak.sh)*
+# Colemak! mentor [wip] *[-> demo](https://now.colemak.sh)*
 
 *WIP: see also roadmap section below*
 
